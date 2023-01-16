@@ -1,0 +1,1 @@
+window.prompt("Kana's infos")
